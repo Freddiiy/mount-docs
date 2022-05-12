@@ -8,7 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Frederik Galler",
+  "author": "Shu Ding",
   "license": "MIT",
   "dependencies": {
     "next": "^12.1.0",
