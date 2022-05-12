@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>Ours {new Date().getFullYear()} © Mountie.</>,
+  footerText: <>{new Date().getFullYear()} © Mountie.</>,
   unstable_faviconGlyph: '🐻',
 }
