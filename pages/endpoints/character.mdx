@@ -39,3 +39,37 @@ example response:
 }
 ```
 
+### `/character/mounts/{region]/{realm-slug}/{character-name}`
+
+Returns all mounts owned by a character
+
+example response:
+
+```js
+[
+   {
+   "mount": {
+   "id": 39,
+   "name": "Red Mechanostrider"
+   },
+   "isUseable": false,
+   "isFavorite": false
+   },
+   {
+   "mount": {
+   "id": 236,
+   "name": "Winged Steed of the Ebon Blade"
+   },
+   "isUseable": false,
+   "isFavorite": false
+   },
+   {
+   "mount": {
+   "id": 58,
+   "name": "Unpainted Mechanostrider"
+   },
+   "isUseable": false,
+   "isFavorite": false
+   },
+]
+```
