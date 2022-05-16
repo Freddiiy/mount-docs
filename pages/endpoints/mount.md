@@ -42,7 +42,7 @@ example response:
 ]
 ```
 
-## `/mount/\{mount-id\}`
+## `/mount/{mount-id}`
 <br/>
 
 Returns information about a specific mount
