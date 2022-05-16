@@ -5,7 +5,7 @@
 
 Returns information about all mounts
 
-example response:
+/mount returns:
 
 ```json
 [
