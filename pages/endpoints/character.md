@@ -1,5 +1,5 @@
 # Character
-## `/character/\{region\}/\{realm-slug\}/\{character-name\}`
+## `/character/{region}/{realm-slug}/{character-name}`
 <br/>
 
 Returns information about a specific character
@@ -39,7 +39,7 @@ Returns information about a specific character
 }
 ```
 
-## `/character/mounts/\{region\}/\{realm-slug\}/\{character-name\}`
+## `/character/mounts/{region}/{realm-slug}/{character-name}`
 <br/>
 
 Returns all mounts owned by a character
