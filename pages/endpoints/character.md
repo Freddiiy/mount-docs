@@ -1,5 +1,4 @@
 # Character
-
 ## /character/\{region\}/\{realm-slug\}/\{character-name\}
 <br/>
 
