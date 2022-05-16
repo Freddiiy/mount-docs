@@ -47,7 +47,7 @@ example response:
 
 Returns information about a specific mount
 
-example response:
+/mount/13 returns:
 
 ```json
 {
