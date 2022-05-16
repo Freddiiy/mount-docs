@@ -5,7 +5,7 @@
 
 Returns information about all mounts
 
-/mount returns:
+`/mount` returns:
 
 ```json
 [
@@ -47,7 +47,7 @@ Returns information about all mounts
 
 Returns information about a specific mount
 
-/mount/13 returns:
+`/mount/13` returns:
 
 ```json
 {
