@@ -39,7 +39,7 @@ Returns information about all mounts
          "name":"Gray Wolf"
       }
    }
-]
+...]
 ```
 
 ## `/mount/{mount-id}`
