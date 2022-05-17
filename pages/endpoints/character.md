@@ -72,5 +72,5 @@ Returns all mounts owned by a character
    "isUseable": false,
    "isFavorite": false
    },
-]
+...]
 ```
