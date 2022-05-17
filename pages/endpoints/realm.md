@@ -29,7 +29,7 @@ Returns information about all realms
       "id":81,
       "slug":"dethecus"
    }
-]
+...]
 ```
 
 ## `/realm/{region}`
@@ -61,5 +61,5 @@ Returns information about all realms from a specific region
       "id":523,
       "slug":"burning-blade"
    }
-]
+...]
 ```
